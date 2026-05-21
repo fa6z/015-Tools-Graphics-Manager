@@ -1,62 +1,73 @@
-# 🚀 Orbit Mods Manager
+# 🚀 FiveM Graphics Manager
 
-[English](#english) | [العربية](#العربية)
-
----
-
-## English
-
-An elegant, lightweight, and smart PC application designed for **FiveM** and **GTA V** players. It allows users to create custom graphic profiles and switch between them seamlessly with a single click, eliminating the hassle of manual file management.
-
-### ✨ Features
-*   **Zero Clutter Interface:** A calm, clean, and modern Dark Mode UI designed to give you peace of mind—no headache, no text-heavy menus.
-*   **Smart Path Detection:** Point the app to your main `FiveM` and `GTA V` directories once, and it will automatically map out the rest (`mods`, `plugins`, and even the `x64/audio/sfx` folder).
-*   **User-Driven Profiles:** Absolute freedom to create, name, and manage your own profiles from scratch.
-*   **Dynamic File Mapping:** Add any file or folder and visually assign its destination utilizing smart presets or custom paths.
-*   **Safe-Clean with Whitelist:** Wipe out old graphics/mods safely before injecting new ones, while keeping critical files (like `eve` or custom scripts) protected via a custom whitelist.
-*   **Smooth Progress Bar:** A minimal background process bar that tells you exactly what is happening, then vanishes automatically once it hits 100%.
-
-### 🛠️ How It Works
-1. **First-Time Setup:** Select your `FiveM` and `GTA V` main directory paths.
-2. **Create a Profile:** Click the **(+)** button, name your profile (e.g., *Cinematic ENB* or *Low-End FPS Boost*).
-3. **Link Your Assets:** Click **Add Files**, choose your mod/graphic files, and pick where they should go from the smart dropdown menu (Mods, Plugins, SFX, etc.).
-4. **Apply Seamlessly:** Select your profile and click **Apply**. The app cleans the old files (respecting your whitelist), moves the new ones, and hides the loading bar when finished.
+<p align="center">
+  <a href="#arabic">العربية</a> • 
+  <a href="#english">English</a>
+</p>
 
 ---
 
-## العربية
+<div id="arabic" dir="rtl">
 
-تطبيق كمبيوتر ذكي، خفيف، وهادئ مخصص للاعبي **FiveM** و **GTA V**. يتيح للمستخدمين إنشاء بروفايلات جرافيك ومودات مخصصة والتبديل بينها بسلاسة تامة بضغطة زر واحدة، مما يغنيك تماماً عن عناء إدارة الملفات يدوياً.
+## 🇸🇦 الشرح باللغة العربية
 
-### ✨ المميزات
-*   **واجهة هادئة وبسيطة:** واجهة عصرية تدعم الوضع المظلم (Dark Mode)، مصممة لتوفر تجربة مريحة للعين بدون زحمة نصوص أو أزرار مفرطة تجيب الصداع.
-*   **التعرف الذكي على المسارات:** حدد مجلد `FiveM` ومجلد `GTA V` الرئيسي مرة واحدة فقط، وسيتعرف التطبيق تلقائياً على بقية المسارات الحساسة مثل (`mods` و `plugins` ومجلد الأصوات `x64/audio/sfx`).
-*   **بروفايلات من صنعك:** حرية مطلقة لإنشاء وتسمية وإدارة البروفايلات الخاصة بك من الصفر وبنفسك.
-*   **توجيه مرن للملفات:** أضف أي ملف أو مجلد واجعل التطبيق ينقله للمسار الذي تريده عبر قوائم اختيار جاهزة وذكية أو مسار مخصص تماماً.
-*   **تنظيف آمن مع القائمة البيضاء (Whitelist):** احذف الجرافيكس والملفات القديمة بأمان قبل تركيب الجديد، مع حماية ملفاتك الهامة (مثل ملف `eve` أو سكربتات معينة) من الحذف عبر وضعها في الوايت ليست.
-*   **شريط تقدم تفاعلي:** شريط تقدم نحيف وهادئ يظهر في الخلفية ليوضح لك ما يحدث بدقة، ثم يختفي تلقائياً بمجرد وصوله إلى 100%.
+تطبيق ذكي واحترافي يتيح لك إدارة، تركيب، وتبديل جرافيكسات لعبة **FiveM** بضغطة زر واحدة، دون الحاجة للمعانة اليومية مع نسخ ولصق الملفات يدويًا.
 
-### 🛠️ كيف يعمل التطبيق؟
-1. **الإعداد لأول مرة:** حدد مسار مجلد `FiveM` ومجلد `GTA V` الرئيسي.
-2. **إنشاء بروفايل:** اضغط على زر **(+)**، وسمِّ البروفايل بالاسم الذي تحبه (مثال: *جرافيكس واقعي للمونتاج*).
-3. **ربط الملفات:** اضغط على **إضافة ملفات**، اختر ملفات الجرافيكس من جهازك، وحدد المسار الذي تريد أن تذهب إليه من القائمة المنسدلة الذكية (Mods, Plugins, SFX...).
-4. **التطبيق الفوري:** اختر البروفايل واضغط **وضع (Apply)**. سيقوم التطبيق بتنظيف الملفات القديمة (مع استثناء ملفات الوايت ليست)، نقل الملفات الجديدة، وإخفاء شريط التحميل فور الانتهاء.
+### 💡 فكرة التطبيق
+إذا كنت من لاعبي فايف ام، فغالباً تعرف كمية المعاناة والوقت الضائع في تجربة جرافيكس جديد أو العودة للجرافيكس القديم. هذا التطبيق جاء ليكون المساعد الشخصي لك؛ يقوم بتنظيم جميع الجرافيكسات الخاصة بك في مكان واحد، ويثبتها لك في ثوانٍ معدودة وبكل أمان.
+
+### 🛠️ المشاكل التي يحلها التطبيق
+* **وداعاً للنسخ واللصق اليدوي:** يغنيك تماماً عن الدخول اليومي لملفات تطبيق فايف ام (`FiveM Application Data`) والبحث عن المجلدات.
+* **حماية ملفاتك من الضياع:** يحل مشكلة نسيان حذف ملفات الجرافيكس القديم التي قد تسبب تداخل في الملفات أو كراشات للعبة.
+* **توفير الوقت والمجهود:** اختصار عملية تستغرق 10 دقائق من البحث والنقل إلى **أقل من ثانية واحدة** وبضغطة زر.
+
+### ✨ المميزات الرهيبة
+* **🚀 تركيب بضغطة زر:** اختر الجرافيكس الذي تريده، اضغط على زر التثبيت، والبرنامج سيتكفل بالباقي.
+* **📂 نظام البروفايلات الذكي (Profiles):** يمكنك حفظ جرافيكسات مختلفة في بروفايلات مستقلة، والتبديل بينها أو استبدالها بلمحة عين.
+* **📥 النسخ الاحتياطي الفوري:** ميزة نسخ بروفايلك الحالي بالكامل؛ لضمان عدم ضياع وزنيتك الحالية وإمكانية الرجوع لها في أي وقت.
+* **🌐 التحكم الخارجي الكامل:** يمكنك تغيير جرافيكس اللعبة وتعديله بالكامل وأنت خارج اللعبة تماماً دون الحاجة لتشغيلها.
+* **⚙️ ميزة الضبط التلقائي للإعدادات:** التطبيق لا يكتفي بتركيب الجرافيكس فقط، بل يقوم بضبط إعدادات اللعبة (سواءً أردتها إعدادات عالية أو منخفضة) لتتوافق وتندمج مع الجرافيكس المختار في نفس اللحظة!
+
+### 📜 الحقوق ورخصة الاستخدام (License)
+جميع الحقوق محفوظة للمطور. يأتي هذا البرنامج تحت رخصة استخدام صارمة:
+* **✓** يُسمح بتحميل البرنامج واستخدامه الشخصي مجاناً.
+* **✗ لا يُسمح بتعديل، إعادة هندسة، أو التعديل على الشفرة البرمجية (Source Code) الخاصة بالتطبيق بأي شكل من الأشكال.**
+* **✗** لا يُسمح بإعادة رفع البرنامج ونسبه للغير.
 
 ---
 
-## 📸 Screenshots / لقطات الشاشة
+</div>
 
-| Main Dashboard (Calm & Clean) | Profile Creation (Smart Mapping) |
-|---|---|
-| _[Add your main UI screenshot here]_ | _[Add your profile setup screenshot here]_ |
+<div id="english" dir="ltr">
+
+## 🇬🇧 English Description
+
+A smart and professional application that allows you to manage, install, and switch **FiveM** graphics presets with a single click, eliminating the daily hassle of manual file copying and pasting.
+
+### 💡 The Concept
+If you are a FiveM player, you probably know how exhausting and time-consuming it is to try a new graphics pack or revert to an old one. This application acts as your personal assistant; it organizes all your graphics mods in one place and installs them securely in a matter of seconds.
+
+### 🛠️ Problems It Solves
+* **Goodbye Manual Copy & Paste:** Fully automates the process, so you never have to dig through `FiveM Application Data` folders again.
+* **File Conflict Prevention:** Solves the issue of left-over files from previous graphics mods that usually cause game crashes or texture bugs.
+* **Time & Effort Saver:** Lowers a tedious 10-minute file-transfer process down to **less than a single second** with just one click.
+
+### ✨ Mind-Blowing Features
+* **🚀 One-Click Installation:** Select your preferred graphics pack, hit install, and let the app handle the rest.
+* **📂 Smart Profiles System:** Save different graphics presets into dedicated profiles, then swap or replace them instantly.
+* **📥 Instant Backup:** Easily clone and backup your current active graphics setup, ensuring you can revert to your favorite settings anytime.
+* **🌐 Out-of-Game Management:** Fully change and tweak your graphics presets from outside the game without needing to launch it first.
+* **⚙️ Auto-Settings Synchronizer:** The app doesn't just transfer files; it automatically configures your in-game settings (whether you want Ultra settings or Low/Competitive settings for FPS boost) to match and blend with the installed graphics preset simultaneously!
+
+### 📜 Copyright & License
+All rights reserved to the developer. This software is protected under a strict proprietary license:
+* **✓** Allowed to download and use for personal gaming evaluation.
+* **✗ Modification, reverse engineering, or altering the source code of this application in any form is strictly prohibited.**
+* **✗** Re-uploading or redistributing the software under someone else's name is not allowed.
+
+</div>
 
 ---
 
-## ⚙️ Requirements / المتطلبات
-
-*   **OS:** Windows 10 / 11
-*   **Target Games:** Grand Theft Auto V & FiveM
-
-## 📝 License / الترخيص
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📸 Screenshots / لقطات من التطبيق
+SOON
