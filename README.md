@@ -68,6 +68,9 @@ All rights reserved to the developer. This software is protected under a strict 
 </div>
 
 ---
-
+## 👨‍💻 Developer / المطور
+fa6z & Google Ai
+* **GitHub:** [@fa6z](https://github.com/fa6z)
+---
 ## 📸 Screenshots / لقطات من التطبيق
 SOON
