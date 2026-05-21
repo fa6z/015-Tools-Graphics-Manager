@@ -1,6 +1,6 @@
 # 🚀 FiveM Graphics Manager
 [![GitHub Release](https://img.shields.io/github/v/release/fa6z/015-Tools-Graphics-Manager?style=for-the-badge&color=green)](https://github.com/fa6z/015-Tools-Graphics-Manager/releases)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/fa6z/thaker-app/releases)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/fa6z/015-Tools-Graphics-Manager/releases)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)](LICENSE)
 <p align="center">
   <a href="#arabic">العربية</a> • 
